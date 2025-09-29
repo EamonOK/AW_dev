@@ -1,4 +1,8 @@
-# Abyssal Woods – Enemy Additions (Dev)
+# Abyssal Woods (Dev)
+# author: Eamon O'Keeffe
+# This is a Nightmare Mode mod for Elden Ring SOTE. 
+# This mod includes new boss encounters, NPCs, map areas, and events. 
+# Mod official release TBA 
 
 ## Layout
 - map/           – exported MSB.DCX per tile (e.g., map/m61/m61_53_41_00/…)
@@ -20,3 +24,4 @@
 ## Notes
 - Only place enemies inside the correct tile; use Duplicate to Map for edges.
 - Keep Draw/Disp groups by duplicating an existing local enemy.
+
